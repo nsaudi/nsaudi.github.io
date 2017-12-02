@@ -316,9 +316,9 @@ blockquote {
 }
 
 .students {
-   display: block;
-    position: relative;
-    width: 50%;
+
+
+    width: 60%;
     margin: 41px auto;
     padding-right: 30px;
     padding-left: 30px;
@@ -329,18 +329,18 @@ blockquote {
 }
 
 #saher {
-    position: absolute;
+display: inline-block;
     float: left;
     background-color: #e9e9e9;
     padding: 20px;
 }
 
 #sujay {
-    position: absolute;
+display: inline-block;
     float: left;
     background-color: #e9e9e9;
     padding: 20px;
-    margin-left: 350px;
+
 }
 
 p.total {
