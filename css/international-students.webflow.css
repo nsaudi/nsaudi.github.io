@@ -316,7 +316,7 @@ blockquote {
 }
 
 .students {
-   /* display: block;*/
+   display: block;
     position: relative;
     width: 50%;
     margin: 41px auto;
