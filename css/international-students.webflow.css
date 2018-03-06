@@ -1011,6 +1011,61 @@ p.spending {
         margin-right: 18px;
         margin-left: 18px;
     }
+    .main-heading{
+        font-size: 24px;
+    }
+
+    blockquote{
+        width: 90%;
+    }
+
+    .method{
+        width: 91%;
+        clear: both;
+    }
+
+    .container{
+        padding-bottom: 0px;
+    }
+
+    .students{
+
+        padding: 0px;
+        width: 100%;
+    }
+.students p{
+    font-size: 16px;
+   line-height: 1.1em;
+   padding: 5px;
+}
+    #saher{
+       /* position: absolute;*/
+        float: left;
+        width: 91%;
+        margin: 10px;
+        padding: 10px;
+
+    }
+
+    #sujay{
+   /*     position: absolute;*/
+        float: left;
+        width: 91%;
+        margin: 10px;
+        padding: 10px;
+    }
+
+    .w-row{
+        clear: left;
+    }
+
+    .explain{
+        width: 91%;
+    }
+
+    .one-heading{
+        padding: 3px;
+    }
 }
 
 
